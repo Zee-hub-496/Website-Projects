@@ -45,9 +45,7 @@ header p {
   background-color: #ffffff;
   border: 1px solid #f1f1f1;
   border-radius: 24px;
-  /* Increased padding to make the card physically taller and wider */
   padding: 36px;
-  /* Optional: explicit minimum height if you want it even taller */
   min-height: 240px;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.03);
   transition:
